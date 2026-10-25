@@ -1,5 +1,9 @@
 # Actividad 0 · Usuarios activos con Ionic y Angular
 
+## Aplicación publicada
+
+https://users-app-ricardo-crespo.vercel.app/users
+
 Práctica de Desarrollo de Interfaces (2.º DAM), correspondiente
 a Ionic Intro.
 
